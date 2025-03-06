@@ -33,7 +33,7 @@ The dataset consist of four files containing words in line separate format:
 
 ## Results
 
-We have achieved an accuracy of 0.9160 on the test set.
+We have achieved an accuracy of 90.6 on the test set.
 
 ## Contact
 
