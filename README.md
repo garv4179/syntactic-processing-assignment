@@ -1,3 +1,4 @@
+This assignment is part of NLP (syntactic-processing)
 # syntactic-processing-assignment
 >
 > This project creates a CRF model for a custom NER (Named Entity Recognition) task. The model is trained on a custom dataset of 1000 sentences. The dataset is a collection of sentences from the patient's clinical notes. The model maps diseases with their respective treatments.
